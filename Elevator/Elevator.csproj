@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Agent.cs~RF48a4429.TMP" />
+    <None Remove="aioujoyz.wxy~" />
+  </ItemGroup>
+
 </Project>

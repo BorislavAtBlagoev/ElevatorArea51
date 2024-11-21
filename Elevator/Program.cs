@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Base baseArea51 = new Base();
+            baseArea51.StartSimulation();
         }
     }
 }
